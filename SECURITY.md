@@ -47,7 +47,7 @@ contributed code that executes in users' environments without their awareness.
 
 ### Out of Scope
 - The behavior of Claude or the Claude Code CLI itself
-  (report to [Anthropic](https://www.anthropic.com/security))
+  (report to [Anthropic](https://www.anthropic.com/responsible-disclosure-policy))
 - Bugs in the user's Claude Code installation or editor extension
 - Theoretical vulnerabilities with no realistic attack path
 - Issues requiring physical access to the user's machine
